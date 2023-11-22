@@ -1,6 +1,6 @@
 # Google Meta description Fetcher
 
-Google Search Parser is a Python program that fetches and displays the relevant short description of a given search query from Google search results.
+It is a Python program that fetches and displays the relevant short meta description of a given search query from Google search results.
 
 ## Feature
 
